@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...👻
 
-![welcome](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZzNnpxdWQzbGE5NWN6enVyaDdhZXdwMnVzYzdoOXJjdWN6OG9zcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif)
-
