@@ -59,9 +59,14 @@ const tegar = {
 
 ## GitHub Stats:
 
-//<div align="left">
-  //<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tegarrasyid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-//</div>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tegarrasyid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tegarrasyid&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tegarrasyid&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tegarrasyid&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Tegarrasyid&theme=tokyonight)
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
